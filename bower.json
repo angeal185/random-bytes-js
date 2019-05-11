@@ -1,11 +1,20 @@
 {
   "name": "random-bytes-js",
   "description": "pseudo random bytes in javascript for the browser",
-  "main": "./dist/random-bytes.min.js",
+  "main": "index.js",
   "authors": [
     "ben eaves"
   ],
   "license": "MIT",
+  "keywords": [
+    "random",
+    "random-bytes",
+    "prng",
+    "pseudo-random",
+    "pseudo-random-generator",
+    "javascript",
+    "browser"
+  ],
   "homepage": "https://github.com/angeal185/random-bytes-js",
   "ignore": [
     "**/.*",

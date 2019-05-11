@@ -15,7 +15,14 @@
     "type": "git",
     "url": "git+https://github.com/angeal185/random-bytes-js.git"
   },
-  "keywords": [],
+  "keywords": ["random",
+    "random-bytes",
+    "prng",
+    "pseudo-random",
+    "pseudo-random-generator",
+    "javascript",
+    "browser"
+  ],
   "author": "ben eaves",
   "license": "MIT",
   "bugs": {
