@@ -1,4 +1,4 @@
-
+const rbjs = require('../')
 
 console.log(rbjs.rand(10))
 
