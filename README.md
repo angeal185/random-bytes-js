@@ -1,6 +1,8 @@
 # random-bytes-js
 pseudo random bytes in javascript for the browser
 
+demo: https://angeal185.github.io/random-bytes-js
+
 ### Installation
 
 npm
