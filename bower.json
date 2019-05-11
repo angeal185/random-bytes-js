@@ -1,0 +1,15 @@
+{
+  "name": "random-bytes-js",
+  "description": "pseudo random bytes in javascript for the browser",
+  "main": "./dist/random-bytes.min.js",
+  "authors": [
+    "ben eaves"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/angeal185/random-bytes-js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}

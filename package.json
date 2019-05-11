@@ -1,0 +1,25 @@
+{
+  "name": "random-bytes-js",
+  "version": "1.0.0",
+  "description": "pseudo random bytes in javascript for the browser",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeal185/random-bytes-js.git"
+  },
+  "keywords": [],
+  "author": "ben eaves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeal185/random-bytes-js/issues"
+  },
+  "homepage": "https://github.com/angeal185/random-bytes-js#readme"
+}
