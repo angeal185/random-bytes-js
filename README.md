@@ -28,7 +28,7 @@ $ git clone git@github.com:angeal185/random-bytes-js.git
 <script src="./dist/random-bytes.min.js"></script>
 ```
 
-### nodejs
+#### nodejs
 
 ```js
 const rbjs = require('random-bytes-js')
